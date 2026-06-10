@@ -1,0 +1,6 @@
+This will be a small learning task, 
+build a simple Python REST API using FastAPI with a small SQLite database. 
+The goal is to understand basic API development, database usage, and testing APIs with Postman.
+The API can store simple benchmark result records with fields like benchmark name, platform, score, and CV %. 
+Implement basic endpoints to create, read, update, and delete records, 
+and include a short README explaining how to run and test the API.
