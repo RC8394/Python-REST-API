@@ -1,4 +1,4 @@
-Instructions
+-Instructions-
 
 Clone the repository:
 
@@ -17,7 +17,8 @@ You should see:
 
 INFO: Uvicorn running on http://127.0.0.1:8000
 
-Example Output
+
+-Example Output-
 
 PUT /benchmarks/{benchmark_id}
 
