@@ -25,8 +25,13 @@ PUT /benchmarks/{benchmark_id}
 Example Request:
 
 {
+
   "benchmark_name": "Geekbench 6",
+  
   "platform": "Ubuntu 24.04",
+  
   "score": 3300,
+  
   "cv_percent": 1.55
+  
 }
